@@ -1,0 +1,5 @@
+{
+  "Database": {
+    "ConnectionString": "Server=.; Database=EFCore_101; Trusted_Connection=True; TrustServerCertificate=Yes;"
+  }
+}
